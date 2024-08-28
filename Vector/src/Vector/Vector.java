@@ -1,3 +1,5 @@
+package Vector;
+
 public class Vector {
     private int dimension;
     private double[] components;

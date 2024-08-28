@@ -1,3 +1,5 @@
+package Vector;
+
 public class Main {
     public static void main(String[] args) {
         Vector vector1 = new Vector(10);
